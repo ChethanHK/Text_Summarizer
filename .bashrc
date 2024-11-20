@@ -1,0 +1,7 @@
+alias python="winpty python.exe"
+export PATH="$PATH:[C:\Users\cheth\anaconda3]:[C:\Users\cheth\anaconda3]/Scripts"
+alias python="winpty python.exe"
+export PATH="$PATH:[C:\Users\cheth\anaconda3]:[C:\Users\cheth\anaconda3]/Scripts"
+alias python="winpty python.exe"
+export PATH="$PATH:[C:\Users\cheth\anaconda3]:/Scripts"
+export PATH="$PATH:[C:\Users\cheth\anaconda3]:[C:\Users\cheth\anaconda3]/Scripts"
